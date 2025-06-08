@@ -1,5 +1,5 @@
-{
-  "extends": "@codecademy/tsconfig",
+{ 
+  // "extends": "@codecademy/tsconfig",
   "compilerOptions": {
     "allowJs": true,
     "baseUrl": ".",
